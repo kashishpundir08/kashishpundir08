@@ -1,15 +1,15 @@
 # Hi, I'm Kashish Pundir 👋
 
-Java Full Stack Developer | BCA Graduate  
-Focused on building scalable web applications using Java and React  
+Java Full Stack Developer  
+Currently working as an Intern at E Square System & Technology  
 
 ---
 
 ## About Me
-- Currently working on **Spring Boot & React projects**
-- Interested in **backend development and system design**
-- Looking for **full-time opportunities**
-- Strong focus on **problem solving and consistency**
+- Working on real-world projects during my internship  
+- Focused on **Spring Boot, React, and backend development**  
+- Interested in building scalable and efficient applications  
+- Actively looking for **full-time opportunities**
 
 ---
 
@@ -25,8 +25,10 @@ Focused on building scalable web applications using Java and React
 
 ## Projects
 - Spiritual Habit Tracker (React)
-- Journaling App with Mood Tracking  
-- More coming soon...
+- Gaming Website
+- Portfolio
+- Blog
+- and many more
 
 ---
 
